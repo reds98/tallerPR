@@ -1,3 +1,3 @@
 print("Hello World")
-print("Hola mi nombre es Test")
-print("Adios")
+print("Hi my name is Test")
+print("Bye")
